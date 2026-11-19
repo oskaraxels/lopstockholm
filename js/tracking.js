@@ -105,7 +105,7 @@
   function banner() {
     var b = document.createElement('div'); b.id = 'ls-consent'; b.setAttribute('role', 'dialog'); b.setAttribute('aria-label', 'Cookieinställningar');
     b.innerHTML =
-      '<p><strong>Cookies på Löpstockholm.</strong> Vi använder nödvändiga cookies för att sajten ska fungera. Med ditt samtycke mäter vi även besök (Google Analytics) och annonsresultat (Meta Pixel). <a href="integritet.html">Läs mer</a></p>' +
+      '<p><strong>Cookies på Löpstockholm.</strong> Vi använder nödvändiga cookies för att sajten ska fungera. Med ditt samtycke mäter vi även besök (Google Analytics) och annonsresultat (Meta Pixel). <a href="integritet.html">Läs mer om cookies</a></p>' +
       '<div class="opts"><label><input type="checkbox" checked disabled> Nödvändiga</label>' +
       '<label><input type="checkbox" id="c-an"> Statistik</label>' +
       '<label><input type="checkbox" id="c-mk"> Marknadsföring</label></div>' +
