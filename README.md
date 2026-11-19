@@ -4,6 +4,8 @@ Live: https://oskaraxels.github.io/lopstockholm/
 
 En liten demo-sajt om löprundor i Stockholm som jag byggt för att visa digital marknadsföring i praktiken:
 landningssida med lead magnet, samtyckesstyrd GA4 + Meta Pixel, dataLayer-events, UTM-hantering och SEO-grunder.
+Portfolio-PDF: https://oskaraxels.github.io/lopstockholm/portfolio.pdf
+
 **Självinitierat övningsprojekt – inga riktiga annonser körs och formuläret skickar inga data.**
 
 ## Struktur
