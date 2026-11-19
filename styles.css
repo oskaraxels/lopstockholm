@@ -60,3 +60,4 @@ footer.site button{background:none;border:0;color:inherit;text-decoration:underl
 #ls-debug .h{padding:10px 12px;background:#e2552b;color:#fff;font-weight:700;position:sticky;top:0}
 #ls-debug ol{margin:0;padding:6px 12px 10px 30px}#ls-debug li{padding:6px 0;border-bottom:1px solid #22332e}#ls-debug b{color:#fff}#ls-debug span{color:#8fd3b0;margin-left:6px}
 #ls-debug code{display:block;color:#a9bdb4;word-break:break-all;margin-top:2px}
+.prose code{word-break:break-all}@media(max-width:640px){.prose td,.prose th{padding:8px 6px;font-size:13px}}
